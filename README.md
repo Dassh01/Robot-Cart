@@ -1,4 +1,8 @@
-This is a robot cart CAD I made in fusion360, 
-in the zip file theres the robot cart master file and all the individual components seperately in the folder "components", you can use it as a reference or anything else!
+## This is an (FRC) robot cart I made in Fusion360 with the intent to be more stable, modular, and most importantly, collapsible through pins for the sake of transportability.
 
-Be warned, I haven't gotten this peer reviewed so theres probably a quite few flaws with the design, this is mostly an idea
+The model is around 95% complete, missing only the redudant placements of a few pins. \
+(Apologies for the joints in-photo) \ 
+![image](https://github.com/user-attachments/assets/1c899cfa-fcb0-4c84-9b1f-1ce555e7008a)
+
+While this model has been peer reviewed, please email me any design reccomendations or modifications. \
+BOM: [Google Sheets](https://docs.google.com/spreadsheets/d/1TmUYI5r2GQ8zHt58lnRgmdzFmsxV3qJDFB5IkvP9Qu0/edit?usp=sharing)
